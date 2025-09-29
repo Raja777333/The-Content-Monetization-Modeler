@@ -41,4 +41,9 @@ Python · Pandas · Scikit-learn · Streamlit · Data Visualization
 
 # 🌐 Streamlit App
 
+# ✅ Results
+Trained and validated multiple regression models
+Fully functional Streamlit application
+Ready for real-world use in revenue estimation tasks
+
 # 📘 Documentation & README
